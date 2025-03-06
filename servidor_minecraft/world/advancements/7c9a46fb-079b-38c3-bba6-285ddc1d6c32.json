@@ -731,6 +731,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-06 19:40:57 +0000",
       "minecraft:spider": "2025-03-06 16:43:45 +0000",
+      "minecraft:creeper": "2025-03-06 22:33:59 +0000",
       "minecraft:witch": "2025-03-06 19:46:25 +0000",
       "minecraft:cave_spider": "2025-03-06 19:46:08 +0000",
       "minecraft:zombie": "2025-03-06 19:32:45 +0000"
@@ -944,6 +945,24 @@
   "apotheosis:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-03-06 19:48:47 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-03-06 22:31:10 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:caelestis": {
+    "criteria": {
+      "requirement": "2025-03-06 22:37:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-03-06 22:35:31 +0000"
     },
     "done": true
   },
