@@ -960,9 +960,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-03-06 22:45:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-03-06 22:35:31 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-03-06 22:45:12 +0000"
     },
     "done": true
   },
