@@ -4311,3 +4311,5 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 19:29:20.683] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
 [06Mar2025 19:29:22.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Most Useful Key]
 [06Mar2025 19:29:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [A Fast Comeback]
+[06Mar2025 19:40:57.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [A Strange Grave Dust]
+[06Mar2025 19:41:35.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Diamonds!]
