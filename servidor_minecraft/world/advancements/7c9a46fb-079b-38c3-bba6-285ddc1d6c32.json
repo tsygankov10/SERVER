@@ -857,81 +857,39 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+      "slept_in_bed": "2025-03-06 19:13:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+      "requirement": "2025-03-06 19:16:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "mcwroofs:recipes/sandstone": {
     "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+      "has_planks": "2025-03-06 19:23:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+      "coded_trigger": "2025-03-06 19:28:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+      "has_upgraded_grave_key": "2025-03-06 19:29:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2025-03-06 19:47:25 +0000"
+      "coded_trigger": "2025-03-06 19:29:27 +0000"
     },
     "done": true
   },
@@ -947,51 +905,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "requirement": "2025-03-06 19:16:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-03-06 19:47:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-06 19:13:47 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-03-06 19:48:47 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-03-06 19:28:06 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/sandstone": {
-    "criteria": {
-      "has_planks": "2025-03-06 19:23:52 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-03-06 19:47:50 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-03-06 19:46:25 +0000"
+      "diamond": "2025-03-06 19:41:35 +0000"
     },
     "done": true
   },
@@ -1001,21 +917,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "coded_trigger": "2025-03-06 19:29:27 +0000"
+      "coded_trigger": "2025-03-06 19:46:25 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-03-06 19:29:22 +0000"
+      "iron_leggings": "2025-03-06 19:47:25 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "diamond": "2025-03-06 19:41:35 +0000"
+      "diamond_helmet": "2025-03-06 19:47:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-06 19:47:50 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-06 19:48:47 +0000"
     },
     "done": true
   },

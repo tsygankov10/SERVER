@@ -2943,3 +2943,4 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 22:21:26.426] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
 [06Mar2025 22:21:26.492] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
 [06Mar2025 22:21:33.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8171ms or 163 ticks behind
+[06Mar2025 22:31:10.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Left hanging]
