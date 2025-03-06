@@ -4302,3 +4302,12 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [06Mar2025 19:10:30.702] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
 [06Mar2025 19:10:31.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8288ms or 165 ticks behind
 [06Mar2025 19:13:47.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Sweet Dreams]
+[06Mar2025 19:16:57.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Tools of the Trade]
+[06Mar2025 19:20:42.743] [Server thread/WARN] [Respawning Animals/]: Mismatched spawn type for minecraft:hoglin! Mob is registered as MONSTER, but spawning as CREATURE. Report this to the author of Minecraft.
+[06Mar2025 19:28:04.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Zombie Brute
+[06Mar2025 19:28:04.806] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[06Mar2025 19:28:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Here They Come]
+[06Mar2025 19:29:20.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Amphithere
+[06Mar2025 19:29:20.683] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[06Mar2025 19:29:22.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Most Useful Key]
+[06Mar2025 19:29:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [A Fast Comeback]
