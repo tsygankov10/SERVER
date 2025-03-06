@@ -469,6 +469,7 @@
       "wythers:underground": "2025-03-06 19:32:41 +0000",
       "wythers:tropical_rainforest": "2025-03-06 19:21:46 +0000",
       "wythers:warm_birch_forest": "2025-03-06 19:20:46 +0000",
+      "wythers:deep_underground": "2025-03-06 19:48:14 +0000",
       "wythers:subtropical_forest": "2025-03-06 16:46:21 +0000"
     },
     "done": false
@@ -637,6 +638,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-03-06 19:50:10 +0000",
       "bread": "2025-03-06 16:10:53 +0000"
     },
     "done": false
@@ -729,6 +731,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-06 19:40:57 +0000",
       "minecraft:spider": "2025-03-06 16:43:45 +0000",
+      "minecraft:witch": "2025-03-06 19:46:25 +0000",
+      "minecraft:cave_spider": "2025-03-06 19:46:08 +0000",
       "minecraft:zombie": "2025-03-06 19:32:45 +0000"
     },
     "done": false
@@ -853,6 +857,84 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-06 19:52:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-03-06 19:47:25 +0000"
+    },
+    "done": true
+  },
   "beautify:rope": {
     "criteria": {
       "requirement": "2025-03-06 19:35:11 +0000"
@@ -871,9 +953,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-06 19:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-06 19:13:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-06 19:48:47 +0000"
     },
     "done": true
   },
@@ -886,6 +980,18 @@
   "mcwroofs:recipes/sandstone": {
     "criteria": {
       "has_planks": "2025-03-06 19:23:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-06 19:47:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-06 19:46:25 +0000"
     },
     "done": true
   },
