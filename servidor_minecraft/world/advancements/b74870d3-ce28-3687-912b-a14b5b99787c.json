@@ -603,6 +603,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-03-13 16:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-03-13 15:44:29 +0000"
@@ -687,6 +693,18 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:39:00 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:39:33 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/parquets": {
     "criteria": {
       "has_item": "2025-03-13 15:54:54 +0000"
@@ -702,6 +720,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-03-13 15:52:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-13 16:55:02 +0000"
     },
     "done": true
   },
@@ -767,7 +791,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-03-13 15:45:56 +0000"
+      "apple": "2025-03-13 15:45:56 +0000",
+      "bread": "2025-03-13 16:51:46 +0000"
     },
     "done": false
   },

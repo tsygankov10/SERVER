@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:46:55 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2025-03-13 16:24:56 +0000"
@@ -35,11 +41,23 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-03-13 16:27:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
   },
   "botania:main/root": {
     "criteria": {
@@ -74,6 +92,12 @@
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-03-13 16:44:30 +0000"
     },
     "done": true
   },
@@ -119,6 +143,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-03-13 16:27:33 +0000"
@@ -149,6 +179,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-13 16:50:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
@@ -164,6 +206,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/jungle_log_slab": {
+    "criteria": {
+      "has_jungle_log": "2025-03-13 16:48:59 +0000"
     },
     "done": true
   },
@@ -190,6 +238,12 @@
       "has_oak_log": "2025-03-13 16:32:37 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-13 16:38:42 +0000"
+    },
+    "done": false
   },
   "beautify:progression/root": {
     "criteria": {
@@ -239,11 +293,23 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2025-03-13 16:43:26 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-03-13 16:24:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
   },
   "hearth_and_home:recipes/trims": {
     "criteria": {
@@ -260,6 +326,30 @@
   "hearth_and_home:recipes/lattices": {
     "criteria": {
       "has_item": "2025-03-13 16:29:16 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:48:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-13 16:45:52 +0000"
+    },
+    "done": true
+  },
+  "beautify:frames": {
+    "criteria": {
+      "requirement": "2025-03-13 16:43:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-03-13 16:46:18 +0000"
     },
     "done": true
   },
@@ -281,9 +371,21 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-13 16:46:18 +0000"
     },
     "done": true
   },
@@ -311,15 +413,39 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
+  },
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-03-13 16:24:56 +0000"
     },
     "done": true
   },
+  "simplyswords:caelestis": {
+    "criteria": {
+      "requirement": "2025-03-13 16:51:19 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-03-13 16:45:33 +0000"
     },
     "done": true
   },
@@ -377,6 +503,12 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-03-13 16:24:57 +0000"
@@ -413,9 +545,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-03-13 16:44:28 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-03-13 16:32:02 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/acacia_wood_slab": {
+    "criteria": {
+      "has_acacia_wood": "2025-03-13 16:45:34 +0000"
     },
     "done": true
   },
@@ -436,6 +580,12 @@
       "stone_pickaxe": "2025-03-13 16:37:05 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_cyan": {
     "criteria": {
@@ -458,6 +608,12 @@
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-03-13 16:45:34 +0000"
     },
     "done": true
   },
@@ -494,6 +650,7 @@
   "wythers:world_explorer": {
     "criteria": {
       "wythers:gravelly_beach": "2025-03-13 16:24:57 +0000",
+      "wythers:humid_tropical_grassland": "2025-03-13 16:42:12 +0000",
       "wythers:underground": "2025-03-13 16:36:36 +0000"
     },
     "done": false
@@ -534,10 +691,31 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-13 16:38:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-13 16:47:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-03-13 16:26:25 +0000",
-      "minecraft:forest": "2025-03-13 16:36:10 +0000"
+      "minecraft:lukewarm_ocean": "2025-03-13 16:57:56 +0000",
+      "minecraft:forest": "2025-03-13 16:36:10 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-13 16:57:24 +0000",
+      "minecraft:plains": "2025-03-13 16:45:33 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
     },
     "done": false
   },
@@ -546,6 +724,12 @@
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 16:58:12 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_lime": {
     "criteria": {
@@ -567,7 +751,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-03-13 16:34:45 +0000"
+      "cooked_porkchop": "2025-03-13 16:54:19 +0000",
+      "porkchop": "2025-03-13 16:38:52 +0000",
+      "apple": "2025-03-13 16:34:45 +0000",
+      "mutton": "2025-03-13 16:43:50 +0000"
     },
     "done": false
   },
@@ -640,6 +827,12 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:43:26 +0000"
     },
     "done": true
   },
