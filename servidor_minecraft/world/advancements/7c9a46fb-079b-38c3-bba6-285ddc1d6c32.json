@@ -463,6 +463,7 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:dry_savanna": "2025-03-13 16:28:52 +0000",
       "wythers:gravelly_beach": "2025-03-06 15:56:04 +0000",
       "wythers:humid_tropical_grassland": "2025-03-06 17:01:13 +0000",
       "wythers:tropical_beach": "2025-03-06 16:54:20 +0000",
@@ -642,6 +643,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-13 16:13:40 +0000",
+      "cooked_beef": "2025-03-13 16:31:44 +0000",
       "apple": "2025-03-06 19:50:10 +0000",
       "bread": "2025-03-06 16:10:53 +0000",
       "cookie": "2025-03-13 16:04:07 +0000"
@@ -1016,6 +1018,12 @@
   "hearth_and_home:recipes/polished_calcite": {
     "criteria": {
       "has_item": "2025-03-13 16:20:00 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:33:46 +0000"
     },
     "done": true
   },

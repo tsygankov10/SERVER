@@ -1,4 +1,10 @@
 {
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:29:16 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-03-13 16:24:56 +0000"
@@ -23,9 +29,27 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-03-13 16:32:02 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-03-13 16:27:30 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-03-13 16:32:02 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:28:05 +0000"
     },
     "done": true
   },
@@ -53,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-13 16:33:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-03-13 16:24:56 +0000"
@@ -74,6 +104,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-03-13 16:32:39 +0000"
     },
     "done": true
   },
@@ -149,6 +185,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-03-13 16:32:37 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-03-13 16:24:56 +0000"
@@ -179,9 +221,21 @@
     },
     "done": true
   },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-03-13 16:29:15 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-13 16:29:08 +0000"
     },
     "done": true
   },
@@ -191,9 +245,21 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/trims": {
+    "criteria": {
+      "has_item": "2025-03-13 16:29:16 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/lattices": {
+    "criteria": {
+      "has_item": "2025-03-13 16:29:16 +0000"
     },
     "done": true
   },
@@ -218,6 +284,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/sanded_wood": {
+    "criteria": {
+      "has_item": "2025-03-13 16:29:16 +0000"
     },
     "done": true
   },
@@ -254,6 +326,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/birch_log_slab": {
+    "criteria": {
+      "has_birch_log": "2025-03-13 16:28:05 +0000"
     },
     "done": true
   },
@@ -317,9 +395,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:32:37 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/parquets": {
+    "criteria": {
+      "has_item": "2025-03-13 16:29:16 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-03-13 16:32:02 +0000"
     },
     "done": true
   },
@@ -332,6 +428,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-13 16:37:05 +0000"
     },
     "done": true
   },
@@ -391,13 +493,20 @@
   },
   "wythers:world_explorer": {
     "criteria": {
-      "wythers:gravelly_beach": "2025-03-13 16:24:57 +0000"
+      "wythers:gravelly_beach": "2025-03-13 16:24:57 +0000",
+      "wythers:underground": "2025-03-13 16:36:36 +0000"
     },
     "done": false
   },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-13 16:32:25 +0000"
     },
     "done": true
   },
@@ -427,7 +536,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:birch_forest": "2025-03-13 16:26:25 +0000"
+      "minecraft:birch_forest": "2025-03-13 16:26:25 +0000",
+      "minecraft:forest": "2025-03-13 16:36:10 +0000"
     },
     "done": false
   },
@@ -455,6 +565,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-03-13 16:34:45 +0000"
+    },
+    "done": false
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-03-13 16:29:15 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-03-13 16:24:57 +0000"
@@ -470,6 +592,18 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-03-13 16:24:56 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-03-13 16:33:09 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-03-13 16:32:02 +0000"
     },
     "done": true
   },
