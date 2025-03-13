@@ -2978,3 +2978,7 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [13Mar2025 15:55:05.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [13Mar2025 15:55:16.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> eu que mi
 [13Mar2025 15:59:19.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Getting an Upgrade]
+[13Mar2025 16:02:26.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[13Mar2025 16:02:51.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Fruits of the Field]
+[13Mar2025 16:03:28.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 16:04:14.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/23449, l='ServerLevel[world]', x=440.06, y=70.00, z=-404.55] died, message: 'Fletcher discovered the floor was lava'
