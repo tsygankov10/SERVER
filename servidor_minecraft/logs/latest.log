@@ -3254,3 +3254,9 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [13Mar2025 17:59:35.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [13Mar2025 18:01:24.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
 [13Mar2025 18:01:24.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[13Mar2025 18:08:33.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 18:08:42.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[13Mar2025 18:10:05.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Would you Like to Know More?]
+[13Mar2025 18:10:30.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-635, y=71, z=-198} BlockPos{x=-636, y=71, z=-199}
+[13Mar2025 18:13:43.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 18:13:47.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 13000]
