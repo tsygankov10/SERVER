@@ -2982,3 +2982,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [13Mar2025 16:02:51.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Fruits of the Field]
 [13Mar2025 16:03:28.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [13Mar2025 16:04:14.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/23449, l='ServerLevel[world]', x=440.06, y=70.00, z=-404.55] died, message: 'Fletcher discovered the floor was lava'
+[13Mar2025 16:10:46.747] [Server thread/WARN] [Respawning Animals/]: Mismatched spawn type for minecraft:hoglin! Mob is registered as MONSTER, but spawning as CREATURE. Report this to the author of Minecraft.
+[13Mar2025 16:11:02.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Sky of Beginning]
+[13Mar2025 16:12:42.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 16:17:39.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> no me hagas contarlo
+[13Mar2025 16:17:42.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> lo del motor
+[13Mar2025 16:20:00.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[13Mar2025 16:20:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Acquire Hardware]
