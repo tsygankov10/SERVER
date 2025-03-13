@@ -1121,6 +1121,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/clay_slab": {
+    "criteria": {
+      "has_clay": "2025-03-13 18:33:58 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2025-03-13 17:15:05 +0000"

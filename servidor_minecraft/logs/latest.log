@@ -3278,3 +3278,5 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [13Mar2025 18:23:45.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=70, z=-188} BlockPos{x=-661, y=69, z=-188}
 [13Mar2025 18:23:47.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-663, y=70, z=-190} BlockPos{x=-663, y=69, z=-189}
 [13Mar2025 18:23:47.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-663, y=70, z=-190} BlockPos{x=-663, y=69, z=-189}
+[13Mar2025 18:26:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 18:30:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Isn't It Iron Pick]
