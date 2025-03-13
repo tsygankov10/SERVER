@@ -693,6 +693,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-03-13 17:31:38 +0000"
+    },
+    "done": false
+  },
   "hearth_and_home:recipes/sanded_wood": {
     "criteria": {
       "has_item": "2025-03-13 15:54:54 +0000"
@@ -846,6 +852,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-03-13 15:45:56 +0000",
+      "potato": "2025-03-13 17:34:56 +0000",
       "bread": "2025-03-13 16:51:46 +0000"
     },
     "done": false
