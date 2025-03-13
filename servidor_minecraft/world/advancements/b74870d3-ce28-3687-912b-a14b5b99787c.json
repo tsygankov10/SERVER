@@ -903,9 +903,27 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-13 18:54:16 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-03-13 18:45:42 +0000"
+    },
+    "done": true
+  },
   "beautify:rope": {
     "criteria": {
       "requirement": "2025-03-13 18:37:31 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/bookstack": {
+    "criteria": {
+      "obtain": "2025-03-13 18:44:50 +0000"
     },
     "done": true
   },

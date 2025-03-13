@@ -3295,3 +3295,23 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [13Mar2025 18:43:08.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [13Mar2025 18:43:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
 [13Mar2025 18:44:50.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [No shelf organization]
+[13Mar2025 18:45:42.599] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/135609, l='ServerLevel[world]', x=-608.93, y=68.00, z=-237.01] died, message: 'Unemployed was slain by carloselpillo'
+[13Mar2025 18:45:42.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Neighborhood Brawl]
+[13Mar2025 18:48:27.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/137480, l='ServerLevel[world]', x=-658.90, y=69.94, z=-193.40] died, message: 'Nitwit was slain by carloselpillo'
+[13Mar2025 18:48:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 18:50:55.250] [Server thread/WARN] [Respawning Animals/]: Mismatched spawn type for alexscaves:vallumraptor! Mob is registered as cave_creature, but spawning as CREATURE. Report this to the author of Alex's Caves at https://github.com/AlexModGuy/AlexsCaves/issues.
+[13Mar2025 18:51:44.688] [Server thread/WARN] [Respawning Animals/]: Mismatched spawn type for alexscaves:tremorsaurus! Mob is registered as cave_creature, but spawning as CREATURE. Report this to the author of Alex's Caves at https://github.com/AlexModGuy/AlexsCaves/issues.
+[13Mar2025 18:51:44.693] [Server thread/WARN] [Respawning Animals/]: Mismatched spawn type for alexscaves:relicheirus! Mob is registered as cave_creature, but spawning as CREATURE. Report this to the author of Alex's Caves at https://github.com/AlexModGuy/AlexsCaves/issues.
+[13Mar2025 18:53:31.757] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Mar2025 18:53:31.758] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Mar2025 18:53:31.782] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Mar2025 18:53:31.809] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1405, y=-54, z=211}
+[13Mar2025 18:53:35.019] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Mar2025 18:53:35.067] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-16, y=-54, z=1646}
+[13Mar2025 18:53:35.232] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Mar2025 18:53:35.273] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Mar2025 18:53:35.274] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1405, y=-54, z=211}
+[13Mar2025 18:53:35.275] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Mar2025 18:53:38.652] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Mar2025 18:53:41.049] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1405, y=-54, z=211}
+[13Mar2025 18:53:44.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
