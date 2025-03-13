@@ -3260,3 +3260,21 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [13Mar2025 18:10:30.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-635, y=71, z=-198} BlockPos{x=-636, y=71, z=-199}
 [13Mar2025 18:13:43.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [13Mar2025 18:13:47.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 13000]
+[13Mar2025 18:15:41.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 18:20:45.950] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[13Mar2025 18:20:45.952] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[13Mar2025 18:20:45.955] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[13Mar2025 18:20:45.960] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[13Mar2025 18:20:45.962] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[13Mar2025 18:20:45.964] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[13Mar2025 18:20:45.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:46997] logged in with entity id 122624 at (-660.8524484273206, 72.0, -192.46220887928487)
+[13Mar2025 18:20:46.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[13Mar2025 18:20:46.031] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[13Mar2025 18:23:43.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-665, y=70, z=-185} BlockPos{x=-665, y=69, z=-186}
+[13Mar2025 18:23:43.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-663, y=70, z=-184} BlockPos{x=-664, y=69, z=-184}
+[13Mar2025 18:23:44.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-662, y=70, z=-183} BlockPos{x=-662, y=69, z=-183}
+[13Mar2025 18:23:44.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-661, y=70, z=-184} BlockPos{x=-662, y=69, z=-183}
+[13Mar2025 18:23:44.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-662, y=70, z=-186} BlockPos{x=-661, y=69, z=-186}
+[13Mar2025 18:23:45.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=70, z=-188} BlockPos{x=-661, y=69, z=-188}
+[13Mar2025 18:23:47.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-663, y=70, z=-190} BlockPos{x=-663, y=69, z=-189}
+[13Mar2025 18:23:47.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-663, y=70, z=-190} BlockPos{x=-663, y=69, z=-189}
