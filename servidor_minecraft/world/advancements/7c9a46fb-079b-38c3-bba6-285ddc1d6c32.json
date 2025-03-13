@@ -476,6 +476,7 @@
       "wythers:outback": "2025-03-13 17:06:47 +0000",
       "wythers:warm_birch_forest": "2025-03-06 19:20:46 +0000",
       "wythers:deep_underground": "2025-03-06 19:48:14 +0000",
+      "wythers:billabong": "2025-03-13 17:13:12 +0000",
       "wythers:subtropical_forest": "2025-03-06 16:46:21 +0000",
       "wythers:sand_dunes": "2025-03-13 16:20:00 +0000"
     },
@@ -1028,78 +1029,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-13 17:08:40 +0000"
-    },
-    "done": false
-  },
   "mcwroofs:recipes/birch_planks": {
     "criteria": {
       "has_planks": "2025-03-13 16:33:46 +0000"
@@ -1112,9 +1041,21 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/tiles": {
+    "criteria": {
+      "has_item": "2025-03-13 17:15:05 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/jungle_log_slab": {
     "criteria": {
       "has_jungle_log": "2025-03-13 16:46:15 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/white_terracotta_slab": {
+    "criteria": {
+      "has_white_terracotta": "2025-03-13 17:15:04 +0000"
     },
     "done": true
   },
@@ -1130,9 +1071,39 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/terracotta_bricks": {
+    "criteria": {
+      "has_item": "2025-03-13 17:15:05 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/acacia_wood_slab": {
     "criteria": {
       "has_acacia_wood": "2025-03-13 16:49:43 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/shingles": {
+    "criteria": {
+      "has_item": "2025-03-13 17:15:05 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/terracotta": {
+    "criteria": {
+      "has_planks": "2025-03-13 17:15:05 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/birch_wood_slab": {
+    "criteria": {
+      "has_birch_wood": "2025-03-13 17:17:01 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/terracotta_slab": {
+    "criteria": {
+      "has_terracotta": "2025-03-13 17:15:05 +0000"
     },
     "done": true
   },
