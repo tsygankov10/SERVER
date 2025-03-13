@@ -545,6 +545,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-13 17:09:22 +0000",
+      "minecraft:spider": "2025-03-13 18:36:19 +0000",
       "minecraft:zombie": "2025-03-13 15:44:29 +0000"
     },
     "done": false
@@ -587,9 +588,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-03-13 18:34:52 +0000",
       "apple": "2025-03-13 15:45:56 +0000",
       "potato": "2025-03-13 17:34:56 +0000",
-      "bread": "2025-03-13 16:51:46 +0000"
+      "bread": "2025-03-13 16:51:46 +0000",
+      "carrot": "2025-03-13 18:37:15 +0000"
     },
     "done": false
   },
@@ -900,9 +903,21 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-03-13 18:37:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-13 18:30:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-03-13 18:36:15 +0000"
     },
     "done": true
   },
@@ -927,6 +942,18 @@
   "hearth_and_home:recipes/barred_glass": {
     "criteria": {
       "has_item": "2025-03-13 18:31:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-03-13 18:36:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-03-13 18:39:43 +0000"
     },
     "done": true
   },

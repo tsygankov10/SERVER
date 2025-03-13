@@ -1133,6 +1133,12 @@
     },
     "done": true
   },
+  "botanypots:husbandry/get_basic_pot": {
+    "criteria": {
+      "get_botany_pot": "2025-03-13 18:34:56 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/birch_wood_slab": {
     "criteria": {
       "has_birch_wood": "2025-03-13 17:17:01 +0000"
