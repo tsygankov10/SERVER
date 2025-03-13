@@ -717,6 +717,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/oak_leaves_slab": {
+    "criteria": {
+      "has_oak_leaves": "2025-03-13 17:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-13 17:13:49 +0000"
