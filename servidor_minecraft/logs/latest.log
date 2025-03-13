@@ -2932,3 +2932,38 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [13Mar2025 15:32:08.947] [Server thread/WARN] [ModernFix/]: Dedicated server took 173.694 seconds to load
 [13Mar2025 15:38:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [13Mar2025 15:38:49.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[13Mar2025 15:39:24.752] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[13Mar2025 15:39:24.755] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[13Mar2025 15:39:24.762] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[13Mar2025 15:39:24.776] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[13Mar2025 15:39:24.779] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[13Mar2025 15:39:24.788] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[13Mar2025 15:39:24.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.42.18.165:43507] logged in with entity id 1483 at (401.38124173662106, -53.0, -707.7972030926165)
+[13Mar2025 15:39:25.771] [Server thread/INFO] [Modonomicon/]: Building books ...
+[13Mar2025 15:39:25.778] [Server thread/INFO] [Modonomicon/]: Books built.
+[13Mar2025 15:39:26.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[13Mar2025 15:39:26.203] [Server thread/WARN] [solapplepie/]: Invalid attribute specified in config: generic.speed
+[13Mar2025 15:39:26.294] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[13Mar2025 15:39:30.454] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[13Mar2025 15:39:32.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7998ms or 159 ticks behind
+[13Mar2025 15:39:55.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7743ms or 154 ticks behind
+[13Mar2025 15:42:38.648] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[13Mar2025 15:42:38.649] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[13Mar2025 15:42:38.655] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[13Mar2025 15:42:38.664] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[13Mar2025 15:42:38.665] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[13Mar2025 15:42:38.669] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[13Mar2025 15:42:38.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:42883] logged in with entity id 9546 at (-312.7841399002564, 81.0, 54.126868864630254)
+[13Mar2025 15:42:38.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[13Mar2025 15:42:38.858] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[13Mar2025 15:43:24.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[13Mar2025 15:44:29.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Monster Hunter]
+[13Mar2025 15:44:40.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Stone Age]
+[13Mar2025 15:44:59.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3906ms or 78 ticks behind
+[13Mar2025 15:45:17.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13Mar2025 15:45:21.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[13Mar2025 15:45:38.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 15:45:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Forbidden Fruit]
+[13Mar2025 15:46:13.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> VAMOOOOOOOOOOOOOOOOOOOOOOS
+[13Mar2025 15:47:04.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Mine? Mine? Mine?]
+[13Mar2025 15:47:36.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
