@@ -2989,3 +2989,51 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [13Mar2025 16:17:42.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> lo del motor
 [13Mar2025 16:20:00.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [13Mar2025 16:20:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Acquire Hardware]
+[13Mar2025 16:20:37.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[13Mar2025 16:20:37.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[13Mar2025 16:21:19.205] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[13Mar2025 16:21:19.207] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[13Mar2025 16:21:19.213] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[13Mar2025 16:21:19.224] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[13Mar2025 16:21:19.227] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[13Mar2025 16:21:19.233] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[13Mar2025 16:21:19.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.42.18.165:51461] logged in with entity id 32982 at (-171.5, 68.0, -328.5)
+[13Mar2025 16:21:19.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[13Mar2025 16:21:19.317] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[13Mar2025 16:22:03.318] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [biggerstacks:rules] rejected their client side version number
+[13Mar2025 16:22:03.319] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[13Mar2025 16:22:03.324] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fc369b8[id=<null>,name=myser444,properties={},legacy=false] (/127.148.57.27:44527) lost connection: Connection closed - mismatched mod channel list
+[13Mar2025 16:22:32.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[13Mar2025 16:24:17.584] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains_fortified]] from pos BlockPos{x=1403, y=82, z=-571}
+[13Mar2025 16:24:26.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9091ms or 181 ticks behind
+[13Mar2025 16:24:26.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -9.16085908039372,-3.841791676379742,1.7609563764519862
+[13Mar2025 16:24:26.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved too quickly! -0.6710326056821714,0.0,10.051004036348644
+[13Mar2025 16:24:31.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! -9.900341550155872,1.4726937809221994,-2.240200260988331
+[13Mar2025 16:24:36.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> zekeeeee
+[13Mar2025 16:24:56.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:60223] logged in with entity id 35026 at (-294.5, 80.0, 27.5)
+[13Mar2025 16:24:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[13Mar2025 16:24:56.772] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[13Mar2025 16:24:56.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ice and Fire]
+[13Mar2025 16:25:10.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Made myser444 a server operator]
+[13Mar2025 16:27:33.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Alex's Mobs]
+[13Mar2025 16:28:08.151] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle_tree]] from pos BlockPos{x=1957, y=80, z=-1019}
+[13Mar2025 16:28:09.932] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[13Mar2025 16:28:09.962] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[13Mar2025 16:28:09.963] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[13Mar2025 16:28:12.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4141ms or 82 ticks behind
+[13Mar2025 16:28:12.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 10.003702650245259,-0.17081290814229533,1.8858842044545554
+[13Mar2025 16:28:14.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 9.726621273389128,-0.1647732818260721,-2.939575966305597
+[13Mar2025 16:28:19.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 9.990972494010066,-1.2579991035152744,-2.4610507058275743
+[13Mar2025 16:28:22.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! -8.859510511200426,1.0,5.056367252201511
+[13Mar2025 16:28:22.544] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[13Mar2025 16:28:22.544] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[13Mar2025 16:28:22.551] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[13Mar2025 16:28:28.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 9.126961190087513,0.41999998688697815,-4.379158776326335
+[13Mar2025 16:28:28.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! -4.894459060144982,0.8787031594607981,8.756573610975892
+[13Mar2025 16:28:32.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[13Mar2025 16:28:32.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 moved too quickly! 5.881123228566992,-1.0,-8.14682874383223
+[13Mar2025 16:28:40.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 8.699655861180418,0.0,-5.042599821573731
+[13Mar2025 16:28:52.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25532ms or 510 ticks behind
+[13Mar2025 16:29:08.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Mine? Mine? Mine?]
+[13Mar2025 16:29:22.446] [Worker-Main-16/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1154287141,-1131000828,-1722453399,506254198],type:"minecraft:entity",y_offset:0.36f}}]
+[13Mar2025 16:29:53.438] [Server thread/WARN] [Respawning Animals/]: Mismatched spawn type for alexscaves:raycat! Mob is registered as cave_creature, but spawning as CREATURE. Report this to the author of Alex's Caves at https://github.com/AlexModGuy/AlexsCaves/issues.
