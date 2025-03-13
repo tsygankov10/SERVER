@@ -3244,3 +3244,13 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [13Mar2025 17:39:10.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
 [13Mar2025 17:39:31.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [13Mar2025 17:49:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 17:54:16.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[13Mar2025 17:56:34.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[13Mar2025 17:57:26.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set own game mode to Spectator Mode]
+[13Mar2025 17:58:13.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set own game mode to Survival Mode]
+[13Mar2025 17:58:25.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Chest Slayer]
+[13Mar2025 17:58:34.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Barrel Booty]
+[13Mar2025 17:59:16.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Local Librarian]
+[13Mar2025 17:59:35.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[13Mar2025 18:01:24.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[13Mar2025 18:01:24.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game

@@ -542,6 +542,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-13 18:01:17 +0000"
+    },
+    "done": false
+  },
   "mcwroofs:recipes/birch_planks": {
     "criteria": {
       "has_planks": "2025-03-13 15:54:54 +0000"
@@ -557,6 +629,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-03-13 15:49:52 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-13 17:58:25 +0000"
     },
     "done": true
   },
@@ -731,6 +809,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-03-13 17:58:34 +0000",
       "opened_chest": "2025-03-13 15:49:52 +0000"
     },
     "done": false
@@ -792,6 +871,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-03-13 15:59:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-03-13 17:58:34 +0000"
     },
     "done": true
   },
