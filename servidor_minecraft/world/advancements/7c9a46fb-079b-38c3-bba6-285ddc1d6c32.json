@@ -476,6 +476,7 @@
       "wythers:outback": "2025-03-13 17:06:47 +0000",
       "wythers:warm_birch_forest": "2025-03-06 19:20:46 +0000",
       "wythers:deep_underground": "2025-03-06 19:48:14 +0000",
+      "wythers:ayers_rock": "2025-03-13 17:25:21 +0000",
       "wythers:billabong": "2025-03-13 17:13:12 +0000",
       "wythers:subtropical_forest": "2025-03-06 16:46:21 +0000",
       "wythers:sand_dunes": "2025-03-13 16:20:00 +0000"
@@ -1053,6 +1054,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-03-13 17:20:17 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/white_terracotta_slab": {
     "criteria": {
       "has_white_terracotta": "2025-03-13 17:15:04 +0000"
@@ -1080,6 +1087,12 @@
   "new_slab_variants:recipes/building_blocks/acacia_wood_slab": {
     "criteria": {
       "has_acacia_wood": "2025-03-13 16:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-13 17:20:17 +0000"
     },
     "done": true
   },
